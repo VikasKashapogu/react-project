@@ -1,0 +1,11 @@
+
+.bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/58e98630369201.56276e68682aa.jpg')
+    no-repeat;
+    background-size: cover;
+    background-position: center;
+}

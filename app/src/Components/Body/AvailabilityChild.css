@@ -1,0 +1,12 @@
+.avail{
+    display:inline-block;
+    margin: 30px 50px 30px 70px;
+  }
+
+.avail .reserve{
+  background-color: blueviolet;
+}
+
+.background{
+  background-color: rgb(20, 221, 228);
+}

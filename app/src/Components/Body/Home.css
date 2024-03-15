@@ -1,0 +1,38 @@
+.homeh{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.homei{
+    width: 70%;
+    height: 60%;
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+.homel{
+    margin-top: 100px;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    border-radius: 20px;
+    width: 30%;
+    color: rgb(255, 132, 0,0.9);
+}
+@media only screen and (max-width:800px){
+    .homei{
+        width: 100%;
+    }
+    .homel{
+        width: 80%;
+        left: 10px;
+        padding-top: 6rem;
+        justify-content: center;
+    }
+    
+}
+
+
+
+/* .r1{
+    display: flex;
+} */

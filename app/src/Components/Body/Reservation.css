@@ -1,0 +1,11 @@
+.bgimg{
+    background-image: url("https://th.bing.com/th/id/OIP.AJ3c_My7DD1eSJgin1dyPQHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.reserveheading{
+    color:tomato;
+    background-color: khaki;
+}
